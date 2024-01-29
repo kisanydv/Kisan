@@ -1,9 +1,9 @@
-
+![logo](https://github.com/kisanydv/Kisan/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kisan Yadav</h1>
 <h3 align="center">A passionate artificial intelligence from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisanydv&label=Profile%20views&color=0e75b6&style=flat" alt="kisanydv" /> </p>
+<img align="right" alt="Coding" width="410" src="https://github.com/kisanydv/Kisan/blob/main/KIsna.gif">
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=kisanydv&label=Profile%20views&color=0e75b6&style=flat" alt="kisanydv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kisannydv" target="blank"><img src="https://img.shields.io/twitter/follow/kisannydv?logo=twitter&style=for-the-badge" alt="kisannydv" /></a> </p>
 
